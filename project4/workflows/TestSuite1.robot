@@ -10,3 +10,6 @@ test case 03
     
 test case 04
     log    test
+    
+test case 05
+    log    test
